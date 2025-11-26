@@ -1,0 +1,7 @@
+pyspark
+airflow
+delta-spark
+pandas
+pydantic
+python-dotenv
+logging
